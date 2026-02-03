@@ -1,6 +1,6 @@
 
 
-#### Insurance Cost Prediction using Machine Learning
+####### Insurance Cost Prediction using Machine Learning
  Project Overview
 This project focuses on predicting medical insurance expenses using Machine Learning.
 By analyzing key factors such as age, BMI, gender, smoking status, number of children, and region, the model identifies which features strongly affect insurance charges and builds accurate prediction models.
