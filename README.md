@@ -4,7 +4,7 @@
  Project Overview
 This project focuses on predicting medical insurance expenses using Machine Learning.
 By analyzing key factors such as age, BMI, gender, smoking status, number of children, and region, the model identifies which features strongly affect insurance charges and builds accurate prediction models.
-📂 Dataset Description
+ Dataset Description
 The dataset contains important health and demographic attributes:
 Column
 Description
@@ -22,7 +22,7 @@ region
 Residential region
 expenses
 Medical insurance cost (target variable)
-🧹 Steps Performed in the Project
+ Steps Performed in the Project
 1️⃣ Data Cleaning
 Checked for missing values
 Removed duplicates
@@ -48,7 +48,7 @@ Adjusted R² Score: ~0.781
 These scores show that the model explains most of the variation in insurance expenses.
 5️⃣ Prediction for Unseen Data
 Model successfully predicts expenses for new inputs using the trained regression model and scaling transformation.
-🎯 Conclusion
+ Conclusion
 Smoking is the most impactful variable on insurance cost.
 BMI and Age also show noticeable influence.
 Gender and region have weaker relationships.
